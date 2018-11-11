@@ -1,2 +1,2 @@
 # My First Neural Network
-This is the code of my first neural network
+This is the code for my first neural network
